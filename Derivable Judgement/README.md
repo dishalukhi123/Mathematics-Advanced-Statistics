@@ -64,6 +64,8 @@ To apply inferential statistical techniques on health data and understand relati
 - H₁: Correlation exists
 
 ## 🟢 Z-Test (BMI)
+Z = (x̄ − μ) / (σ / √n)
+
 ![Z Test](images/z_test.png)
 
 ## 🟢 T-Test (Male vs Female BMI)
@@ -78,11 +80,6 @@ To apply inferential statistical techniques on health data and understand relati
 ## 🟢 Correlation
 ![Correlation](images/correlation.png)
 
-## 🟢 Z-Test (BMI)
-
-Z = (x̄ − μ) / (σ / √n)
-
-![Z Test](images/z_test.png)
 
 
 ## 🧭 Methodology
